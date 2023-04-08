@@ -1,6 +1,5 @@
 # instagram-get-unfollowers
 # "You can run this code after copying the div tag included in the _aano class and pasting it into the html body."
-README for the Instagram Unfollowers Finder
 
 This Python script allows you to find your Instagram unfollowers by comparing your followers list with your following list.
 
